@@ -1,0 +1,1 @@
+ A scrpit that prints the absolute path of current working directory
